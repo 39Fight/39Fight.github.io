@@ -70,8 +70,20 @@ li
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
 
 <!-- FOOTER -->
+
+    <style>
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: blue;
+  color: black;
+  text-align: center;
+}
+</style>
   
-<footer>
+<div class="footer">
   <ul>
   <li href="">Rules</li>
   <a>|</a>
