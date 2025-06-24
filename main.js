@@ -11,8 +11,8 @@ function oauthSignIn() {
   form.setAttribute('action', oauth2Endpoint);
 
   // Parameters to pass to OAuth 2.0 endpoint.
-  var params = {'client_id': 'YOUR_CLIENT_ID',
-                'redirect_uri': 'YOUR_REDIRECT_URI',
+  var params = {'client_id': '582335692876-96q10i6r99pa103pd5vd8ge6njog8f2h.apps.googleusercontent.com',
+                'redirect_uri': 'https://39fight.github.io/',
                 'response_type': 'token',
                 'scope': 'https://www.googleapis.com/auth/drive.metadata.readonly https://www.googleapis.com/auth/calendar.readonly',
                 'include_granted_scopes': 'true',
