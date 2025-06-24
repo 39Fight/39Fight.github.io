@@ -8,9 +8,26 @@
   background-color: #6C5B7B;
   color: black;
   text-align: center;
-  display: table;
-  width: 100%;
-  table-layout: fixed;
+}
+.wrapper {
+    overflow: hidden;
+}
+.center {
+    float: left;
+    width: 1000px;
+}
+.right {
+    float: right;
+    width: 50%;
+    margin-right: -500px;
+}
+
+.left {
+    float: left;
+    width: 50%;
+    margin-left: -500px;
+    text-align: right;
+}
 }
 .header > div {
     display: table-cell;
