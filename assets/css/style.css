@@ -12,23 +12,6 @@
 .wrapper {
     overflow: hidden;
 }
-.centre {
-    float: left;
-    width: 1000px;
-}
-.right {
-    float: right;
-    width: 50%;
-    margin-right: -500px;
-}
-
-.left {
-    float: left;
-    width: 50%;
-    margin-left: -500px;
-    text-align: right;
-}
-}
 .header > div {
     display: table-cell;
 }
