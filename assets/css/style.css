@@ -1,4 +1,16 @@
-h1 {
+@charset "UTF-8";
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #6C5B7B;
+  color: black;
+  text-align: center;
+}
+
+.h1 {
   color: black;
   font-family: verdana;
   src: url('../assets/fonts/Rexlia Rg.otf');
