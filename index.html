@@ -27,31 +27,25 @@ li
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+
+<script
+    src="https://code.jquery.com/jquery-3.3.1.js"
+    integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+    crossorigin="anonymous">
+</script>
+<script> 
+$(function(){
+  $("#header").load("header.html"); 
+  $("#footer").load("footer.html"); 
+});
+</script> 
         
         </head>
 
     <!-- HEADER -->
   
 <header>
-    <div class="header">
-        <!-- LOGO -->
-          <div id="logo">
-            <img src="assets/images/logo.png"/>
-            <a>39 FIGHT</a>
-        </div>
-        <!-- NAVIGATION -->
-        <nav>
-            <ul>
-                    <a href="index.html">Home</a>
-                    <a href="https://discord.gg/gngyaKWX4z">Discord</a>
-                    <a href="login.html">Log in</a>
-                <input type="text" placeholder="Search.."></input></ul>
-        </nav>
-    </div>
-    <!-- Image menu in Header to contain an Image and
-        a sample text over that image -->
-    <div id="header-image-menu">
-    </div>
+    
 </header>
 
   
@@ -60,7 +54,9 @@ li
     
     <!-- BODY -->
     
-    
+    <div id="header"></div>
+<!--Remaining section-->
+
     <title>39Fight</title>
 
 
@@ -75,20 +71,6 @@ li
 
 <!-- FOOTER -->
 
-   
-  
-<div class="footer">
-  <ul>
-  <li href="rules.html">Rules</a>
-  <a>|</a>
-  <a href="terms.html">TOS</a>
-  <a>|</a>
-  <a href="privacy.html">Privacy</a>
-    </ul>
-</footer>
-  
-<footer>
-  <a>Website developed by 39 FIGHT TEAM</a>
-</footer>
+   <div id="footer"></div>
   
 </html>
