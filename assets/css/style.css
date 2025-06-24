@@ -20,6 +20,10 @@
   text-align: center;
 }
 
+#element_l {padding-left : 20px;float:left;}
+#element_c {float:center;}
+#element_r {padding-right : 20px;float:right;}
+
 .wrapper {
     overflow: hidden;
 }
