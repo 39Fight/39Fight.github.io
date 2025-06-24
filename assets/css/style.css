@@ -1,5 +1,15 @@
 @charset "UTF-8";
 
+.header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: #6C5B7B;
+  color: black;
+  text-align: center;
+}
+
 .footer {
   position: fixed;
   left: 0;
