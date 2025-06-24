@@ -5,8 +5,8 @@
   left: 0;
   top: 0;
   width: 100%;
-  background-color: #6C5B7B;
-  color: black;
+  background-color: #313131;
+  color: white;
   text-align: center;
 }
 .wrapper {
@@ -32,8 +32,8 @@
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #6C5B7B;
-  color: black;
+  background-color: #00B98E;
+  color: white;
   text-align: center;
 }
 
