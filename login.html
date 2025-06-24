@@ -1,1 +1,68 @@
+<!doctype html>
+<html lang="en">
 
+    <head>
+<link rel="stylesheet" href="assets/css/style.css">
+
+<!-- LISTS -->
+    
+    <style type="assets/css/style.css">
+div.ui-menu li {
+    list-style:none;
+
+}
+ul
+{
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+}
+li
+{
+   display:inline;
+    padding-left:14px;
+}
+</style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+        
+        </head>
+
+    <!-- HEADER -->
+  
+<header>
+    <div class="header">
+        <!-- LOGO -->
+          <div id="logo">
+            <img src="assets/images/logo.png"/>
+            <a>39 FIGHT</a>
+        </div>
+        <!-- NAVIGATION -->
+        <nav>
+            <ul>
+                    <a href="home.html">Home</a>
+                    <a href="https://discord.gg/gngyaKWX4z">Discord</a>
+                    <a href="login.html">Log in</a>
+                <input type="text" placeholder="Search.."></input></ul>
+        </nav>
+    </div>
+    <!-- Image menu in Header to contain an Image and
+        a sample text over that image -->
+    <div id="header-image-menu">
+    </div>
+</header>
+  
+   <div id="login-screen" class="hidden">
+      <button id="login-btn">Login with Google</button>
+   </div>
+
+   <div class="hidden" id="profile-screen">
+      <p>Welcome <span id="username"></span>!</p>
+      <! --<img id="avatar" class="hidden" src=""/> -->
+      <button id="logout-btn">Log out</button>
+
+  <script src="https://apis.google.com/js/platform.js?onload=renderButton" async defer></script>
+</body>
+</html>
