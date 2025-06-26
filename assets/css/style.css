@@ -107,3 +107,12 @@ img {
   margin-top: 5%;
   font-size: 17px;
 }
+
+.footer_list {
+  display: flex;
+  align-items: left;
+  padding-right: 5%;
+  float:right;
+  display:inline-block;
+  width: 500px;
+}
