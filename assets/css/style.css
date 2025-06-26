@@ -43,8 +43,7 @@
   float:center;
   display:inline-block;
   width: 500px;
-  padding-left: 35%
-  padding-right: 35%
+  margin:auto
 }
 
 .element_r {
