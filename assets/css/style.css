@@ -42,7 +42,9 @@
 .element_c {
   float:center;
   display:inline-block;
-  width: 50%;
+  width: 500px;
+  padding-left: 35%
+  padding-right: 35%
 }
 
 .element_r {
