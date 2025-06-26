@@ -116,3 +116,8 @@ img {
   display:inline-block;
   width: 500px;
 }
+
+.header_logo {
+  display: flex;
+  align-items: center;
+}
