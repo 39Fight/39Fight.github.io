@@ -81,9 +81,10 @@
   color: black;
   font-family: verdana;
   src: url('../assets/fonts/Rexlia Rg.otf');
-  font-size: 100%;
+  font-size: 120%;
   font-weight: normal;
   font-style: normal;
+  font-weight: bold;
 }
 
 a {
