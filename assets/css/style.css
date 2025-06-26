@@ -33,7 +33,7 @@
 }
 
 .element_l {
-  padding-left: 20px;
+  padding-left: 5%;
   float:left;
   display:inline-block;
   width: 500px;
@@ -42,11 +42,11 @@
 .element_c {
   float:center;
   display:inline-block;
-  width: 500px;
+  width: 50%;
 }
 
 .element_r {
-  padding-right: 20px;
+  padding-right: 5%;
   float:right;
   display:inline-block;
   width: 500px;
