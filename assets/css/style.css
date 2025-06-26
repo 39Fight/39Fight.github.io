@@ -13,18 +13,17 @@
 }
 
 .header {
-  position: fixed;
+  position: absolute;
   left: 0;
   top: 0;
   width: 100%;
   background-color: #313131;
   color: white;
   text-align: center;
-  padding: 0px 0;
 }
 
 .footer {
-  position: fixed;
+  position: absolute;
   left: 0;
   bottom: 0;
   width: 100%;
