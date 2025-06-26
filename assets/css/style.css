@@ -65,12 +65,12 @@
 }
 
 .container {
-  margin: auto
+  margin: 10px
   height: 8em;
   border: 2px solid rgb(75 70 74);
   border-radius: 0.5em;
   font: 1.2em sans-serif;
-  padding: 70px;
+  padding: 50px;
 
   display: flex;
   align-items: center;
