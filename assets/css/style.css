@@ -63,6 +63,7 @@
 }
 
 .container {
+  margin: 100px auto
   height: 8em;
   border: 2px solid rgb(75 70 74);
   border-radius: 0.5em;
