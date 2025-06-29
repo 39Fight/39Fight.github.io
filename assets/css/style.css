@@ -16,7 +16,9 @@
   position: absolute;
   left: 0;
   top: 0;
-  width: 100%;
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
   background-color: #313131;
   color: white;
   text-align: center;
