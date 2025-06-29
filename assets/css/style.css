@@ -16,7 +16,6 @@
   position: absolute;
   left: 0;
   top: 0;
-  position: relative;
   width: 940px;
   margin: 0 auto;
   background-color: #313131;
@@ -28,7 +27,6 @@
   position: absolute;
   left: 0;
   bottom: 0;
-  position: relative;
   width: 940px;
   margin: 0 auto;
   background-color: #00B98E;
