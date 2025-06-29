@@ -33,12 +33,17 @@
   bottom: 0;
   width: 100%;
   height: 10.8%;
-  display: flex;
+  display: inline-block;
   margin: 0 auto;
   background-color: #00B98E;
   color: white;
   align-items: center;
   justify-content: space-between;
+}
+
+.footer_center {
+  margin: 0px auto;
+  display: table;
 }
 
 .element_l {
