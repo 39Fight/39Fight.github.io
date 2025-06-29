@@ -87,7 +87,7 @@
 }
 
 .childContainer {
-  position: absolute;
+  position: relative;
   margin: auto;
   height: 8em;
   border: 2px solid rgb(75 70 74);
@@ -144,4 +144,5 @@ img {
 .header_logo {
   display: flex;
   align-items: center;
+  
 }
