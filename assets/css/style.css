@@ -73,7 +73,7 @@
 }
 
 .container {
-  position: relative;
+  position: absolute;
   margin: auto;
   height: 8em;
   border: 2px solid rgb(75 70 74);
@@ -87,7 +87,7 @@
 }
 
 .childContainer {
-  position: relative;
+  position: absolute;
   margin: auto;
   height: 8em;
   border: 2px solid rgb(75 70 74);
