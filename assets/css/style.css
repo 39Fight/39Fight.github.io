@@ -76,7 +76,7 @@
 .container {
   position: absolute;
   width: 92%;
-  margin: auto;
+  margin: 0 auto;
   height: 8em;
   border: 2px solid rgb(75 70 74);
   border-radius: 0.5em;
