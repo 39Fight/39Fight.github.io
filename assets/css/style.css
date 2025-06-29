@@ -41,11 +41,6 @@
   justify-content: space-between;
 }
 
-.footer_center {
-  margin: 0px auto;
-  display: table;
-}
-
 .element_l {
   padding-left: 5%;
   float:left;
