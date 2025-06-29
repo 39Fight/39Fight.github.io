@@ -38,13 +38,13 @@
   padding-left: 5%;
   float:left;
   display:inline-block;
-  width: 500px;
+  width: 313px;
 }
 
 .element_c {
   float:center;
   display:inline-block;
-  width: 500px;
+  width: 313px;
   display: grid;
   align-items: center;
   justify-content: center;
@@ -54,7 +54,7 @@
   padding-right: 5%;
   float:right;
   display:inline-block;
-  width: 500px;
+  width: 313px;
 }
 
 
