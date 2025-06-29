@@ -90,7 +90,7 @@
 .childContainer {
   position: relative;
   margin: auto;
-  height: 8em;
+  height: auto;
   border: 2px solid rgb(75 70 74);
   border-radius: 0.5em;
   font: 1.2em sans-serif;
