@@ -14,10 +14,10 @@
 
 .header {
   position: absolute;
-  height: 11.5%;
   left: 0;
   top: 0;
   width: 100%;
+  height: 11.5%;
   display: flex;
   margin: 0 auto;
   background-color: #313131;
@@ -28,16 +28,17 @@
 
 .footer {
   position: absolute;
-  display: flex;
   flex-direction: row;
   left: 0;
   bottom: 0;
   width: 100%;
   height: 10.8%;
+  display: flex;
   margin: 0 auto;
   background-color: #00B98E;
   color: white;
-  text-align: center;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .element_l {
