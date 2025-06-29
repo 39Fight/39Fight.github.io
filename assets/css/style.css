@@ -145,8 +145,3 @@ img {
   display: flex;
   align-items: center;
 }
-
-li {
-  height: 30px;
-  line-height: 30px;
-}
