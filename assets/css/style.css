@@ -38,7 +38,7 @@
 .element_l {
   padding-left: 5%;
   float:left;
-  display:inline-block;
+  display: flex;
   width: auto;
 }
 
@@ -46,7 +46,7 @@
   float:center;
   display:inline-block;
   width: auto;
-  display: grid;
+  display: flex;
   align-items: center;
   justify-content: center;
 }
@@ -54,7 +54,7 @@
 .element_r {
   padding-right: 5%;
   float:right;
-  display:inline-block;
+  display: flex;
   width: auto;
 }
 
@@ -109,6 +109,7 @@ img {
   border: none;
   margin-top: 5%;
   font-size: 17px;
+  display: flex;
 }
 
 .footer_list {
