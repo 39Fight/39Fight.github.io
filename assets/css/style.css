@@ -89,6 +89,7 @@ html {
     (var(--box-height) - var(--icon-size)) / 2
   );
   position: relative;
+  --border-radius: 0.5em;
 }
 .searchbox input[type='search'] {
   font-family: Calibri, sans-serif;
