@@ -223,7 +223,9 @@ a {
   color: white;
 }
 
-
+h2 {
+  padding-left: 10%;
+}
 
 .searchbar {
   float: center;
