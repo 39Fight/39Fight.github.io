@@ -189,6 +189,7 @@ input[type='search']::-webkit-search-decoration {
   width: 100%;
   border: 2px solid rgb(75 70 74);
   border-radius: 0.5em;
+  height: auto;
 }
 }
 
