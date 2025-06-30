@@ -248,5 +248,9 @@ h2 {
 .header_logo {
   display: flex;
   align-items: center;
+
+  .logo {
+    margin-left: 10%;
+  }
   
 }
