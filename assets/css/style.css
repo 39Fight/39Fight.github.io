@@ -178,6 +178,8 @@ input[type='search']::-webkit-search-decoration {
   position: sticky;
   top:0;
   width: 100%;
+  border: 2px solid rgb(75 70 74);
+  border-radius: 0.5em;
 }
 }
 
