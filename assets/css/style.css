@@ -193,6 +193,16 @@ input[type='search']::-webkit-search-decoration {
   border-radius: 0.5em;
   height: -webkit-fill-available;
 }
+
+.bannerContainer {
+  font-family: Calibri, sans-serif;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  border: 2px solid rgb(75 70 74);
+  border-radius: 0.5em;
+  height: 8.8%;
 }
 
 .h1 {
