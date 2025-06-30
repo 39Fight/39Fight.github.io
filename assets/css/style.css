@@ -81,7 +81,7 @@ html {
   --border-width: 2px;
   --border-radius: calc(var(--box-height) / 2);
   height: var(--box-height);
-  max-width: 561px;
+  max-width: 39%;
   --icon-size: calc(var(--box-height) * 3 / 4);
   --side-margin: calc(var(--border-radius) / 2);
   --icon-vertical-margin: calc(
