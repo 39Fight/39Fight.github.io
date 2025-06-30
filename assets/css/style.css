@@ -158,8 +158,8 @@ input[type='search']::-webkit-search-decoration {
   font-family: Calibri, sans-serif;
   position: absolute;
   width: 94%;
-  margin: 0 auto;
   height: 8.8%;
+  margin: 0 auto;
   top: 11.5%;
 }
 
