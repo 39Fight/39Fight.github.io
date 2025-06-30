@@ -13,6 +13,7 @@
 }
 
 .header {
+  font-family: Calibri, sans-serif;
   font-size: 20px;
   position: absolute;
   left: 0;
@@ -28,6 +29,7 @@
 }
 
 .footer {
+  font-family: Calibri, sans-serif;
   font-size: 20px;
   position: absolute;
   flex-direction: row;
@@ -76,6 +78,7 @@
 }
 
 .container {
+  font-family: Calibri, sans-serif;
   position: absolute;
   width: 92%;
   margin: 0 auto;
@@ -91,6 +94,7 @@
 }
 
 .childContainer {
+  font-family: Calibri, sans-serif;
   position: relative;
   margin: auto;
   height: auto;
