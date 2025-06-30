@@ -172,16 +172,10 @@ input[type='search']::-webkit-search-decoration {
 
 .childContainer {
   font-family: Calibri, sans-serif;
-  position: relative;
-  margin: auto;
-  height: auto;
-  border: 2px solid rgb(75 70 74);
-  border-radius: 0.5em;
-  font: 1.2em sans-serif;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  position: -webkit-sticky;
+  position: sticky;
+  top:0;
+  width: 100%;
 }
 }
 
