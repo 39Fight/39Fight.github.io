@@ -93,12 +93,12 @@ html {
 }
 .searchbox input[type='search'] {
   font-family: Calibri, sans-serif;
-  border: var(--border-width) solid var(--dark-grey);
+  border: var(--border-width) solid transparent;
   border-radius: var(--border-radius);
   height: 100%;
   width: 100%;
   -webkit-appearance: none; /* for Safari */
-  color: var(--white);
+  color: var(--dark-grey);
   font-family: Calibri, sans-serif;
   font-size: 1rem;
 }
@@ -118,7 +118,7 @@ html {
   font-family: Calibri, sans-serif;
   padding-left: calc(var(--side-margin) + var(--icon-size) + 4px);
   padding-right: var(--side-margin);
-  background: transparent;
+  background: var(--white);
   -webkit-tap-highlight-color: transparent;
 }
 
