@@ -173,6 +173,7 @@ input[type='search']::-webkit-search-decoration {
   border-radius: 0.5em;
   font: 1.2em sans-serif;
   top: 11.5%;
+  left: 0;
 
   display: flex;
   flex-direction: column;
