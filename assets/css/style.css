@@ -154,6 +154,15 @@ input[type='search']::-webkit-search-decoration {
     display: table-cell;
 }
 
+.Banner {
+  font-family: Calibri, sans-serif;
+  position: absolute;
+  width: 94%;
+  margin: 0 auto;
+  height: 8.8%;
+  top: 11.5%;
+}
+
 .container {
   font-family: Calibri, sans-serif;
   position: absolute;
